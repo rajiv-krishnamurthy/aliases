@@ -1,2 +1,3 @@
 alias l='ls -ltra'
 alias k='ls -ltra'
+alias gco='git checkout -b'
