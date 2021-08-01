@@ -1,3 +1,5 @@
+# Aliases and other nifty changes I need to make
+
 alias l='ls -ltra'
 alias k='ls -ltra'
 alias gco='git checkout -b'
