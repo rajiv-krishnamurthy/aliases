@@ -1,4 +1,11 @@
-# Aliases and other nifty changes I need to make
+# Aliases and other nifty settings I need to make my life easier
+
+# Ensure the following three lines are at the end of .bashrc
+
+#if [ -f ~/aliases/.aliasetc ]; then
+ #   . ~/aliases/.aliasetc
+#fi
+
 
 alias l='ls -ltra'
 alias k='ls -ltra'
