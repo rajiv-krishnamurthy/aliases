@@ -7,6 +7,6 @@
 #fi
 
 
-alias l='ls -ltra'
-alias k='ls -ltra'
+alias l='ls -ltr'
+alias k='ls -ltr'
 alias newbranch='git checkout -b'
