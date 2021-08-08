@@ -32,7 +32,7 @@ alias='ta=tmux -attach -t '
 
 # list aliases
 
-grep ^alias ~/.aliases/.aliasetc
+alias shortcuts='grep ^alias ~/.aliases/.aliasetc'
 
 
 #reload bashrc
