@@ -16,3 +16,25 @@ alias newbranch='git checkout -b'
 # virtualenv related aliases
 alias venv='virtualenv'
 alias vactivate='source bin/activate'
+
+# tmux related
+
+# usage : tnew <name_of_session>
+alias tnew='tmux new -s '
+
+alias tls='tmux ls'
+
+#usage ta <name_of_session>
+
+alias='ta=tmux -attach -t '
+
+
+
+# list aliases
+
+grep ^alias ~/.aliases/.aliasetc
+
+
+#reload bashrc
+source ~/.bashrc
+
