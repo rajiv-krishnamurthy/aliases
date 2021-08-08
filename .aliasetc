@@ -36,5 +36,5 @@ alias shortcuts='grep ^alias ~/.aliases/.aliasetc'
 
 
 #reload bashrc
-source ~/.bashrc
+alias resource='source ~/.bashrc'
 
